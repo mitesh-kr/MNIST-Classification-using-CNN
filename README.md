@@ -49,15 +49,30 @@ The CNN model from Experiment 1 is used to perform this new classification task.
 
 ## Results & Evaluation
 
-Accuracy and loss graphs: Plotted per epoch for both experiments.
-
-Confusion matrix: Generated for both 10-class and 4-class classification tasks.
-
-Parameter report: Total trainable and non-trainable parameters are reported.
-
-Observations: Analysis of results, error analysis, and recommendations for improvement.
+Accuracy and loss graphs: Plotted per epoch for both experiments are in the result folder
 
 
+### Parameter report:
+**for 10 class classification**
+
+Number of trainable parameters: 4726
+
+Number of non-trainable parameters: 7840
+
+**for 4 class classification**
+
+Number of trainable parameters: 4504
+
+Number of non_trainable parameters: 7840
+
+### Observations: Analysis of results
+**10-class classification:**
+- **Final Training Accuracy: 97.51%**
+- **Final Validation Accuracy: 97.17%**
+ 
+**4-class classification:**
+- **Final Training Accuracy: 98.81%**
+- **Final Validation Accuracy: 98.70%**
 
 
 
