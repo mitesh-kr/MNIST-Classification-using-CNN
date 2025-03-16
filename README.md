@@ -74,6 +74,10 @@ Number of non_trainable parameters: 7840
 - **Final Training Accuracy: 98.81%**
 - **Final Validation Accuracy: 98.70%**
 
-
+## Installation
+```bash
+git clone https://github.com/mitesh-kr/MNIST-Classification-using-CNN.git
+cd MNIST-Classification-using-CNN
+pip install -r requirements.txt
 
 
